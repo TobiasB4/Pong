@@ -1,0 +1,5 @@
+﻿  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 43 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PongSFML.vcxproj -> T:\C++\Projects\PongSFML\PongSFML\Release\PongSFML.exe
